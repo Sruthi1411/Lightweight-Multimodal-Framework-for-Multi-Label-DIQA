@@ -7,6 +7,7 @@
 </div>
 
 ---
+> 📄 For a detailed explanation of the methodology, workflow, experiments, and results, please refer to the project PDF report included in this repository.
 
 # Overview
 
@@ -39,7 +40,7 @@ The work includes:
 
 <div align="center">
 
-| Clean Document | Distorted Document |
+| Clean Document | Preprocessed Document |
 |---|---|
 | <img src="figures/Figure_1.png" width="250"/> | <img src="figures/Figure_2.png" width="180"/> |
 
